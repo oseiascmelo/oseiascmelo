@@ -27,7 +27,22 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 ---
 
 
-### Linguagens e Tecnologias
+
+
+
+
+
+
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+
+### Front-End
+
+<!--HTML-->
 
 <img 
     align="left" 
@@ -37,6 +52,9 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
+<!--CSS-->
+
 <img 
     align="left" 
     alt="CSS" 
@@ -45,6 +63,9 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+<!--JAVASCRIPT-->
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -53,23 +74,12 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+
+
+### Back-End
+
+<!--PHP-->
 
 <img 
     align="left" 
@@ -80,14 +90,10 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
+### Banco de Dados
+
+<!--MYSQL-->
 
 <img 
     align="left" 
@@ -98,6 +104,35 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
+<!--MARIADB-->
+
+<img 
+    align="left" 
+    alt="MariaDB" 
+    title="MariaDB"
+    width="40px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" 
+/>
+
+
+
+
+### Frameworks
+
+<!--BOOTSTRAP-->
+
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<!--IONIC-->
+
 <img 
     align="left" 
     alt="Ionic" 
@@ -106,6 +141,72 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"
 />
+
+<!--ANGULAR-->
+
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="40px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+
+
+### Ferramentas de Gerenciamento:
+
+
+<!--DBeaver-->
+
+<img 
+    align="left" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="40px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+/>
+
+
+
+### Ferramentas de Versionamentos
+
+<--GIT-->
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<!--GITHUB-->
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="40px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+/>
+
+### Editores
+
+
+<!--VSCODE-->
+<img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="40px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+/>
+
 
 
            
