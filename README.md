@@ -27,19 +27,6 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 ---
 
 
-
-
-
-
-
-
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-
 ### Front-End
 
 <!--HTML-->
@@ -75,7 +62,8 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
+<br>
+<br>
 
 ### Back-End
 
@@ -90,6 +78,8 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
+<br>
+<br>
 
 ### Banco de Dados
 
@@ -115,7 +105,8 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" 
 />
 
-
+<br>
+<br>
 
 
 ### Frameworks
@@ -153,8 +144,10 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
 
+<br>
+<br>
 
-### Ferramentas de Gerenciamento:
+### Gerenciamento:
 
 
 <!--DBeaver-->
@@ -168,11 +161,12 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
 
+<br>
+<br>
 
+### Versionamento
 
-### Ferramentas de Versionamentos
-
-<--GIT-->
+<!--GIT-->
 
 
 <img 
@@ -194,7 +188,10 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
 
-### Editores
+<br>
+<br>
+
+### Editores e IDEs
 
 
 <!--VSCODE-->
@@ -207,8 +204,19 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
 />
 
+<br>
+<br>
 
+### Documentação
 
+<img 
+    align="left" 
+    alt="Markdown" 
+    title="Markdown"
+    width="40px" 
+    style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" 
+/>
            
 
 <br/>
