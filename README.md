@@ -147,25 +147,6 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 <br>
 
-### Gerenciamento
-
-
-
-<!--DBeaver-->
-
-<img 
-    align="left" 
-    alt="DBeaver" 
-    title="DBeaver"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-/>
-
-
-<br>
-<br>
-
 ### Versionamento
 
 
@@ -206,6 +187,17 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     width="40px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+/>
+
+<!--DBeaver-->
+
+<img 
+    align="left" 
+    alt="DBeaver" 
+    title="DBeaver"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
 />
 
 <br>
