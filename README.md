@@ -219,7 +219,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br/>
 <br/>
 
-<!--
+
 ### 📊 Estatísticas
 
 <p>
@@ -231,6 +231,8 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://github-readme-stats.vercel.app/api?username=oseiascmelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  <!--
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -238,5 +240,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  -->
+
 </p>
--->
+
