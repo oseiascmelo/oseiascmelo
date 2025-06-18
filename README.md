@@ -25,7 +25,6 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
 
 ### Front-End
-<br>
 
 <!--HTML-->
 
@@ -64,7 +63,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Back-End
-<br>
+
 
 <!--PHP-->
 
@@ -81,7 +80,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Banco de Dados
-<br>
+
 
 <!--MYSQL-->
 
@@ -110,7 +109,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
 
 ### Frameworks
-<br>
+
 
 <!--BOOTSTRAP-->
 
@@ -149,7 +148,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Gerenciamento
-<br>
+
 
 
 <!--DBeaver-->
@@ -168,7 +167,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Versionamento
-<br>
+
 
 <!--GIT-->
 
@@ -196,7 +195,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Editores e IDEs
-<br>
+
 
 
 <!--VSCODE-->
@@ -213,7 +212,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br>
 
 ### Documentação
-<br>
+
 
 <img 
     align="left" 
