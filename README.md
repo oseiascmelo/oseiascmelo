@@ -231,6 +231,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<!--
 
 
 <img 
@@ -241,6 +242,6 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
   />
 
 
-
+-->
 </p>
 
