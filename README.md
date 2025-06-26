@@ -26,44 +26,44 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <!-- Seção de tecnologias: Front-End -->
 ### Tecnologias
 
-<table style="border: none;">
+<table style="border: none; width: 100%;">
   <tr>
-    <th style="white-space: nowrap; border: none;">Front-End</th>
-    <th style="white-space: nowrap; border: none;">Back-End</th>
-    <th style="white-space: nowrap; border: none;">Banco de Dados</th>
-    <th style="white-space: nowrap; border: none;">Frameworks</th>
-    <th style="white-space: nowrap; border: none;">Versionamento</th>
-    <th style="white-space: nowrap; border: none;">Editores & IDEs</th>
-    <th style="white-space: nowrap; border: none;">Documentação</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Front-End</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Back-End</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Banco de Dados</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Frameworks</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Versionamento</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Editores & IDEs</th>
+    <th style="white-space: nowrap; border: none; width: 14.28%;">Documentação</th>
   </tr>
   <tr>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36px" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36px" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36px" alt="JavaScript" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36px" alt="PHP" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36px" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="36px" alt="MariaDB" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="36px" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="36px" alt="Ionic" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="36px" alt="AngularJS" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36px" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36px" alt="GitHub" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="37px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36px" alt="VSCode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="36px" alt="DBeaver" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="37px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="36px" alt="Markdown" />
     </td>
   </tr>
 </table>
