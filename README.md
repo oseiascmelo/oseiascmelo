@@ -91,7 +91,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <!-- Para alterar o username nas estatísticas, modifique o parâmetro username nas URLs abaixo -->
 ### Estatísticas
 
-<p align="start">
+<p align="center">
   <!-- Card com estatísticas gerais do GitHub -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   
