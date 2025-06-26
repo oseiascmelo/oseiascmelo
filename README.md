@@ -24,158 +24,51 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 ---
 
 <!-- Seção de tecnologias: Front-End -->
-### Front-End
+### Tecnologias
 
-<!-- Ícones de tecnologias Front-End -->
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<br><br>
+<table>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-End</th>
+    <th>Banco de Dados</th>
+    <th>Frameworks</th>
+    <th>Versionamento</th>
+    <th>Editores & IDEs</th>
+    <th>Documentação</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" alt="HTML" title="HTML" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" alt="CSS" title="CSS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" title="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" alt="PHP" title="PHP" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" alt="MySQL" title="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="40px" alt="MariaDB" title="MariaDB" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px" alt="Bootstrap" title="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="40px" alt="Ionic" title="Ionic" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40px" alt="Angular" title="Angular" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" alt="Git" title="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40px" alt="GitHub" title="GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" alt="VSCode" title="VSCode" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40px" alt="DBeaver" title="DBeaver" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40px" alt="Markdown" title="Markdown" />
+    </td>
+  </tr>
+</table>
 
-<!-- Seção de tecnologias: Back-End -->
-### Back-End
 
-<!-- Ícones de tecnologias Back-End -->
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<br><br>
-
-<!-- Seção de tecnologias: Banco de Dados -->
-### Banco de Dados
-
-<!-- Ícones de tecnologias de Banco de Dados -->
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MariaDB" 
-    title="MariaDB" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
-/>
-<br><br>
-
-<!-- Seção de tecnologias: Frameworks -->
-### Frameworks
-
-<!-- Ícones de Frameworks -->
-<img 
-    align="left" 
-    alt="Bootstrap" 
-    title="Bootstrap" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ionic" 
-    title="Ionic" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
-<br><br>
-
-<!-- Seção de tecnologias: Versionamento -->
-### Versionamento
-
-<!-- Ícones de ferramentas de Versionamento -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<br><br>
-
-<!-- Seção de tecnologias: Editores e IDEs -->
-### Editores e IDEs
-
-<!-- Ícones de Editores e IDEs -->
-<img 
-    align="left" 
-    alt="VSCode" 
-    title="VSCode" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="DBeaver" 
-    title="DBeaver" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
-/>
-<br><br>
-
-<!-- Seção de tecnologias: Documentação -->
-### Documentação
-
-<!-- Ícones de ferramentas de Documentação -->
-<img 
-    align="left" 
-    alt="Markdown" 
-    title="Markdown" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" 
-/>
-<br><br>
 
 
 ### Estatísticas
