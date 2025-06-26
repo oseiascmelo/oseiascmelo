@@ -180,23 +180,10 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
 ### Estatísticas
 
-<!-- Exibe estatísticas gerais do GitHub -->
-<!-- Container para alinhar lado a lado -->
-
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
-
-  <!-- Estatísticas do GitHub -->
-  
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-
-</div>
-
-
-
-
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+</p>
 
 
 <!-- Exibe gráfico de atividades no GitHub -->
