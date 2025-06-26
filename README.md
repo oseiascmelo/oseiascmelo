@@ -180,9 +180,9 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
 ### Estatísticas
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+<p align="start">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
 </p>
 
 
