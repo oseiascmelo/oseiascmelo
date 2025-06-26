@@ -178,7 +178,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <br><br>
 
 <!-- Seção de estatísticas do GitHub -->
-### 📊 Estatísticas
+### Estatísticas
 
 <!-- Exibe estatísticas gerais do GitHub -->
 <p>
