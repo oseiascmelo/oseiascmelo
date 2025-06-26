@@ -19,37 +19,19 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <p align="left">
   <!-- Link LinkedIn - altere href para seu perfil -->
   <a href="https://www.linkedin.com/in/oseiascmo">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
   <!-- Link Instagram - altere href para seu perfil -->
   <a href="https://www.instagram.com/oseiascmo/">
-    <img
-      alt="Instagram"
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
-  </a>
+    <img alt="Instagram"src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   <!-- Link para repositórios ordenados por estrelas -->
   <a href="https://github.com/oseiascmelo?tab=repositories&sort=stargazers">
-    <img
-      alt="Total de estrelas"
-      title="Total de estrelas GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/oseiascmelo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/oseiascmelo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
 
   <!-- Link para seguidores no GitHub -->
   <a href="https://github.com/oseiascmelo?tab=followers">
-    <img
-      alt="Seguidores"
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/oseiascmelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
+    <img alt="Seguidores"title="Me siga no GitHub"src="https://custom-icon-badges.demolab.com/github/followers/oseiascmelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
 </p>
 
 <!-- Linha horizontal para separar seções -->
