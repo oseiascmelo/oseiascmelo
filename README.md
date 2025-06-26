@@ -245,3 +245,10 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 -->
 </p>
 
+
+<img style="margin-top:100px" >
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oseiascmo&bg_color=1A1B27&color=6DA7F2&line=BB94F2&point=3BB4A7&margin=#E4E2E2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</img>
+
