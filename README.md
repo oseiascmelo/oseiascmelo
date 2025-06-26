@@ -184,9 +184,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 <!-- Container para alinhar lado a lado -->
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
-    
-  
-  <!-- Principais linguagens -->
+
 
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
 
