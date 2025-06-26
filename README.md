@@ -1,18 +1,11 @@
 <!-- Banner animado com Typing SVG -->
 <!-- Exibe uma mensagem de boas-vindas animada com efeito de digitação -->
 <!-- Para alterar o texto, modifique o parâmetro `lines` na URL do SVG abaixo -->
-<br>
-
 <!-- Componente Typing SVG - animado -->
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+Name+is+Oséias+Melo;I+study+Systems+Analysis+and+development;Welcome!+:%29"
-    alt="Typing SVG"
-  />
-</a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+Name+is+Oséias+Melo;I+study+Systems+Analysis+and+development;Welcome!+:%29)](https://git.io/typing-svg) 
 <br>
-
+<br>
 <!-- Título principal -->
 <!-- Modifique o texto entre os asteriscos para alterar o título principal -->
 **`Desenvolvedor FullStack`**
