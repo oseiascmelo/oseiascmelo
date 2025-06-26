@@ -177,32 +177,29 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 />
 <br><br>
 
-<!-- Seção de estatísticas do GitHub -->
+
 ### Estatísticas
 
 <!-- Exibe estatísticas gerais do GitHub -->
-<p>
-  <img 
-    style="margin-right: 20px; margin-bottom: 20px;" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+<!-- Container para alinhar lado a lado -->
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
+    
+  
+  <!-- Principais linguagens -->
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+
+  <!-- Estatísticas do GitHub -->
+  
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=oseiascmo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 
 
-<!-- Exibe principais linguagens e tecnologias no GitHub -->
-<!--
-  <img 
-    style="margin-bottom: 20px;"
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseiascmo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
--->
+
+
+
 
 <!-- Exibe gráfico de atividades no GitHub -->
 
@@ -213,3 +210,5 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     src="https://github-readme-activity-graph.vercel.app/graph?username=oseiascmo&bg_color=1A1B27&color=6DA7F2&line=BB94F2&point=3BB4A7&area=true" 
   />
 </p>
+
+</div>
