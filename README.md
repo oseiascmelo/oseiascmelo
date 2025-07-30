@@ -3,7 +3,7 @@
 <!-- Para alterar o texto, modifique o parâmetro `lines` na URL do SVG abaixo -->
 <!-- Componente Typing SVG - animado -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+Name+is+Oséias+Melo;I+study+Systems+Analysis+and+development;Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;+My+Name+is+Oséias+Melo;I+study+Systems+Analysis+and+Development;Welcome!+:%29)](https://git.io/typing-svg) 
 <br>
 <br>
 <!-- Título principal -->
@@ -12,7 +12,7 @@
 
 <!-- Descrição profissional -->
 <!-- Altere o texto abaixo para atualizar sua descrição/resumo profissional -->
-Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e de alta performance, com sólida experiência em HTML5, CSS3 e JavaScript. Tenho expertise no desenvolvimento de aplicações web e mobile, utilizando frameworks modernos como Ionic Angular para soluções mobile multiplataforma, Bootstrap 5 para design responsivo e Firebase para integração de backend em tempo real. Além disso, possuo conhecimentos em SQL para gerenciamento de bancos de dados e experiência com o sistema Sankhya para soluções de gestão empresarial.
+Sou um desenvolvedor especializado na criação de interfaces intuitivas, responsivas e de alta performance, com sólida experiência em HTML5, CSS3 e JavaScript. Tenho expertise no desenvolvimento de aplicações web e mobile, utilizando frameworks modernos como Ionic Angular para soluções mobile multiplataforma, Bootstrap 5 para design responsivo e Firebase para integração de backend em tempo real. Além disso, possuo conhecimentos em SQL para gerenciamento de bancos de dados e experiência com o sistema Sankhya para soluções de gestão empresarial.
 
 <!-- Links para redes sociais e GitHub -->
 <!-- Atualize os URLs href para seus perfis reais -->
@@ -23,7 +23,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
   <!-- Link Instagram - altere href para seu perfil -->
   <a href="https://www.instagram.com/oseiascmo/">
-    <img alt="Instagram"src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
   <!-- Link para repositórios ordenados por estrelas -->
   <a href="https://github.com/oseiascmo?tab=repositories&sort=stargazers">
@@ -31,15 +31,15 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
 
   <!-- Link para seguidores no GitHub -->
   <a href="https://github.com/oseiascmo?tab=followers">
-    <img alt="Seguidores"title="Me siga no GitHub"src="https://custom-icon-badges.demolab.com/github/followers/oseiascmo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/oseiascmo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
 </p>
 
 <!-- Linha horizontal para separar seções -->
 ---
 
-<!-- Seção de Tecnologias -->
+<!-- Seção de Stacks e Ferramentas -->
 <!-- Para alterar os títulos das colunas, modifique o texto dentro das tags <th> -->
-### Tecnologias
+### Stacks e Ferramentas
 
 <table style="border: none; width: 100%;">
   <tr>
@@ -71,7 +71,7 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
       <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px" />
       <img title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="40px" />
-      <img title="AngularJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40px" />
+      <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40px" />
     </td>
     <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
       <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" />
@@ -79,7 +79,8 @@ Sou um desenvolvedor especialista em criar interfaces intuitivas, responsivas e 
     </td>
     <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
       <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40px" />
-      <img title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40px" />
+      <!-- Ícone do DBeaver pode não estar oficialmente suportado -->
+      <img title="DBeaver (ícone pode não funcionar em alguns ambientes)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40px" />
     </td>
     <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
       <img title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="40px" />
