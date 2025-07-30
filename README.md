@@ -18,8 +18,8 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
 <!-- Atualize os URLs href para seus perfis reais -->
 <p align="left">
   <!-- Link LinkedIn - altere href para seu perfil -->
-  <a href="https://www.linkedin.com/in/oseiascmo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/oseiascmo">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
 
   <!-- Link Instagram - altere href para seu perfil -->
   <a href="https://www.instagram.com/oseiascmo/">
@@ -28,7 +28,9 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
   <!-- Link para X (Twitter) com badge preto total -->
   <a href="https://twitter.com/oseiascmo">
     <img alt="X" src="https://img.shields.io/badge/X-@oseiascmo-000000?style=for-the-badge&logo=x-twitter&logoColor=white&labelColor=000000"/></a>
-
+    <!-- Vercel-->
+  <a href="https://vercel.com/oseiascmo">
+    <img alt="Vercel" src="https://img.shields.io/badge/@oseiascmo-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1A1A"/></a>
   <!-- Link para repositórios ordenados por estrelas -->
   <a href="https://github.com/oseiascmo?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/oseiascmo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
