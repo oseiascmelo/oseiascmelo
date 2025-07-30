@@ -25,15 +25,19 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
   <a href="https://www.instagram.com/oseiascmo/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
+  <!-- Link para X (Twitter) com badge preto total -->
+  <a href="https://twitter.com/oseiascmo">
+    <img alt="X" src="https://img.shields.io/badge/X-@oseiascmo-000000?style=for-the-badge&logo=x-twitter&logoColor=white&labelColor=000000"/></a>
+
   <!-- Link para repositórios ordenados por estrelas -->
   <a href="https://github.com/oseiascmo?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/oseiascmo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
 
   <!-- Link para seguidores no GitHub com badge 100% azul -->
   <a href="https://github.com/oseiascmo?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/oseiascmo?style=for-the-badge&logo=github&color=236ad3&labelColor=236ad3" />
-  </a>
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://img.shields.io/github/followers/oseiascmo?style=for-the-badge&logo=github&color=236ad3&labelColor=236ad3"/></a>
 </p>
+
 
 <!-- Linha horizontal para separar seções -->
 ---
