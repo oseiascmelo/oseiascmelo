@@ -62,37 +62,37 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
   <tr>
     <!-- Ícones de tecnologias com tooltip (title) e tamanho fixo -->
     <!-- Para alterar as tecnologias, substitua a URL da imagem e o título (title) -->
-    <td align="center" style="white-space: nowrap; width: 11%;">
+    <td align="center" style="white-space: nowrap; width: 14.28%;">
       <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
-      <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" />
+      <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" />
       <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%;">
-      <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" />
-      <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30px" />
+      <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="30px" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%;">
-      <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" />
-      <img title="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" />
+      <img title="MariaDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="30px" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%;">
-      <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" />
-      <img title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40px" />
-      <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" />
+      <img title="Ionic" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="30px" />
+      <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30px" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%; background-color: white; border-radius: 6px; padding: 6px;">
-      <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="background-color: white; border-radius: 4px; padding: 2px;" />
-      <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="background-color: white; border-radius: 4px; padding: 2px;" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%; background-color: white; border-radius: 6px; padding: 6px;">
+      <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="background-color: white; border-radius: 4px; padding: 2px;" />
+      <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="background-color: white; border-radius: 4px; padding: 2px;" />
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%;">
-      <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%;">
+      <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" />
       <!-- Ícone do DBeaver pode não estar oficialmente suportado -->
       <span style="background-color: white; border-radius: 6px; padding: 4px; display: inline-block;">
-        <img title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40px" />
+        <img title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="30px" />
       </span>
     </td>
-    <td align="center" style="white-space: nowrap; border: none; width: 11%; background-color: white; border-radius: 6px; padding: 6px;">
-      <img title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40px" style="background-color: white; border-radius: 4px; padding: 2px;" />
+    <td align="center" style="white-space: nowrap; border: none; width: 14.28%; background-color: white; border-radius: 6px; padding: 6px;">
+      <img title="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="30px" style="background-color: white; border-radius: 4px; padding: 2px;" />
     </td>
   </tr>
 </table>
