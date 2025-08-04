@@ -51,13 +51,13 @@ Sou um desenvolvedor especializado na criação de interfaces intuitivas, respon
 <table style="border: none; width: 100%;">
   <tr>
     <!-- Cabeçalho da tabela - nomes das categorias -->
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Front-End</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Back-End</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Banco de Dados</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Frameworks</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Versionamento</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Editores & IDEs</th>
-    <th style="white-space: nowrap; border: none; width: 14.28%;">Documentação</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Front-End</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Back-End</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Banco de Dados</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Frameworks</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Versionamento</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Editores & IDEs</th>
+    <th style="white-space: nowrap; border: none; width: 10%;">Documentação</th>
   </tr>
   <tr>
     <!-- Ícones de tecnologias com tooltip (title) e tamanho fixo -->
